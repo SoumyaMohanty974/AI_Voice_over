@@ -2,10 +2,7 @@ moviepy==1.0.3
 pydub
 gtts
 openai-whisper
-ffmpeg
-imageio
-decorator
 imageio[ffmpeg]
 ffmpeg-python
-imageio[ffmpeg]
+
 

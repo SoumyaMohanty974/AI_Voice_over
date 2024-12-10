@@ -6,3 +6,6 @@ ffmpeg
 imageio
 decorator
 imageio[ffmpeg]
+ffmpeg-python
+imageio[ffmpeg]
+

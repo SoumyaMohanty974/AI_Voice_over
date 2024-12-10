@@ -4,5 +4,6 @@ gtts
 openai-whisper
 imageio[ffmpeg]
 ffmpeg-python
+ffmpeg-static
 
 

@@ -5,3 +5,4 @@ openai-whisper
 ffmpeg
 imageio
 decorator
+imageio[ffmpeg]

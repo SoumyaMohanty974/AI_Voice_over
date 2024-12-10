@@ -1,0 +1,5 @@
+moviepy
+pydub
+gtts
+openai-whisper
+ffmpeg

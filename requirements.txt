@@ -3,3 +3,5 @@ pydub
 gtts
 openai-whisper
 ffmpeg
+imageio
+decorator
